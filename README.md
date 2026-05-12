@@ -130,7 +130,7 @@ Como consequência, a instituição pode diminuir perdas financeiras, melhorar a
 - SQL: Victoria Goold
 - StreamLit: Mariane Rodrigues
 
-<!--<table>
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/LaviniBastos" title="GitHub">
@@ -141,24 +141,24 @@ Como consequência, a instituição pode diminuir perdas financeiras, melhorar a
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Daniel-Marim" title="GitHub">
-        <img src="https://avatars.githubusercontent.com/u/186893500?v=4" width="100px;" alt="Foto Natallia"/><br>
+      <a href="https://github.com/natallia-neiva" title="GitHub">
+        <img src="https://avatars.githubusercontent.com/u/235322157?v=4" width="100px;" alt="Foto Natallia"/><br>
         <sub>
           <b>Natállia Neiva</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/DevDan7" title="GitHub">
-        <img src="https://avatars.githubusercontent.com/u/152210372?v=4" width="100px;" alt="Foto Victoria"/><br>
+      <a href="https://github.com/vicjaykosz" title="GitHub">
+        <img src="https://avatars.githubusercontent.com/u/135620503?v=4" width="100px;" alt="Foto Victoria"/><br>
         <sub>
           <b>Victoria Goold</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/deboralopesdev" title="GitHub">
-        <img src="https://avatars.githubusercontent.com/u/196735456?v=4" width="100px;" alt="Foto Mariane"/><br>
+      <a href="https://github.com/marianecosta" title="GitHub">
+        <img src="https://avatars.githubusercontent.com/u/84878947?v=4" width="100px;" alt="Foto Mariane"/><br>
         <sub>
           <b>Mariane Rodrigues</b>
         </sub>
